@@ -116,7 +116,7 @@ The system consists of:
 By following these steps, your system should be fully functional and capable of monitoring water levels, sending alerts, and logging data in real-time.
 
 ## Results 📊:
-
+[IoT Flood Water Level Detection](https://l1nk.dev/IoT-Flood-Water-Level-Detection)
 
 ## References 🔗
 
@@ -128,12 +128,6 @@ By following these steps, your system should be fully functional and capable of 
 
 3. **Twilio SMS API Guide**:  
    [https://www.twilio.com/docs/usage/api](https://www.twilio.com/docs/usage/api)
-
-4. **LM35 Datasheet**:  
-   [https://www.ti.com/lit/ds/symlink/lm35.pdf](https://www.ti.com/lit/ds/symlink/lm35.pdf)
-
-5. **HC-SR04 Datasheet**:  
-   [https://www.electronicwings.com/nodemcu/hc-sr04-ultrasonic-sensor-interfacing-with-nodemcu](https://www.electronicwings.com/nodemcu/hc-sr04-ultrasonic-sensor-interfacing-with-nodemcu)
 
 ## Conclusion 🏁
 
