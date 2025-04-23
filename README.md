@@ -13,7 +13,7 @@ The primary goal of this system is to provide early warnings to residents and au
 - **Data Logging**: Uploads water level and temperature data to **Bolt Cloud** for remote monitoring and analysis.
 
 ## Detailed Documentation 📄
-For detailed information, including the project's objectives, hardware setup, software, and instructions to run the system, please refer to the [**Detailed README**](./Report.md).
+For detailed information, including the project's objectives, hardware setup, software, and instructions to run the system, please refer to the [**Detailed REPORT**](./Report.md).
 
 ## Hardware Requirements ⚙️:
 - **Arduino Uno** Microcontroller
